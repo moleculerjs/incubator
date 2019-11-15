@@ -1,2 +1,2 @@
-# laboratory
-:microscope: A comprehensive Moleculer test project to test all framework features and modules.
+# :microscope: laboratory
+A comprehensive Moleculer test project to test all framework features and modules.

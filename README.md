@@ -1,2 +1,2 @@
 # :hatching_chick: incubator
-A comprehensive Moleculer test project to test all framework features and modules.
+A comprehensive Moleculer demo project to try out new ideas and test all framework features and modules.
